@@ -21,4 +21,7 @@ Akan Name comes from a traditional naming system for Ghana.A child's name is det
 *Boostrap 4
 *Javascript
 
+# Licence
+
+Licensed under the MIT license.
 
