@@ -44,7 +44,7 @@
         font-size:20px;
     }
     .footer{
-      background-color:burlywood;
+      background-color:bisque;
       text-align: center;
       color: black;
       padding-bottom: 2%;
@@ -54,7 +54,7 @@
       margin-top:20px;
     }
     body{
-      background-color:rgba(240,240,240);
+      background-color:rgb(16, 87, 116);
       background-repeat:no-repeat;
       background-size: cover;
     }
